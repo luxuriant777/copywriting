@@ -14,7 +14,7 @@ Finally, in the education section, you will find articles on a variety of educat
 Thank you for taking the time to browse my portfolio. I hope you enjoy reading my work as much as I enjoyed writing it. If you have any questions or would like to work with me, please don't hesitate to get in touch. I would love the opportunity to bring my writing skills to your project.
 
 ### Finance
-#### "Bitcoin trading: pros and cons" - This article explores the pros and cons of trading in Bitcoin. It is aimed at investors who are considering trading in Bitcoin and want to learn more about the advantages and disadvantages of doing so.
+#### ["Bitcoin trading: pros and cons"](https://github.com/luxuriant777/copywriting/blob/main/articles/bitcoin-trading-pros-and-cons.md).- This article explores the pros and cons of trading in Bitcoin. It is aimed at investors who are considering trading in Bitcoin and want to learn more about the advantages and disadvantages of doing so.
 #### "5 Simple Steps to Creating a Budget That Works for You" - This article provides a step-by-step guide to creating a budget that works for you. It is aimed at people who want to learn how to create a budget and stick to it.
 #### "The Benefits of Investing in Diversified Portfolios" - This article explores the benefits of investing in diversified portfolios. It is aimed at investors who want to learn more about the advantages of investing in a variety of assets.
 #### "Maximizing Your Savings: Tips and Tricks for Cutting Expenses" - This article provides tips and tricks for cutting expenses and maximizing your savings. It is aimed at people who want to learn how to save more money.
