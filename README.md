@@ -1,6 +1,7 @@
-### Copywriting portfolio
+## Copywriting portfolio
 
-Welcome to my copywriting portfolio! My name is Alex and I am a highly experienced copywriter with a passion for creating engaging and compelling content.
+### Welcome to my copywriting portfolio! 
+My name is Alex and I am a highly experienced copywriter with a passion for creating engaging and compelling content.
 
 In this portfolio, you will find a selection of my best works across a range of topics, including finance, technical articles, and education. With my extensive experience and unique writing style, I am able to create content that is not only informative and accurate, but also interesting and easy to read.
 
