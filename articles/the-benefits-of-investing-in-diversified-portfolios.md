@@ -1,4 +1,4 @@
-#### [Return to README.md](https://github.com/luxuriant777/copywriting#finance)
+#### [Return to README.md](https://github.com/luxuriant777/copywriting#finance-articles)
 
 ### The Benefits of Investing in Diversified Portfolios
 Investing in a diversified portfolio is a key strategy for minimizing risk and maximizing returns. A diversified portfolio is one that includes a variety of asset classes, such as stocks, bonds, and cash, as well as investments in different sectors and industries. Here are some of the benefits of investing in a diversified portfolio:
